@@ -22,7 +22,7 @@
 - lucide-react
 
 ## 실행 URL
-https://easy-mannam-app.vercel.app/
+https://easy-mannam.vercel.app/ 
 
 ## 앱 홈화면에 설치하기
 아이폰
